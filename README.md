@@ -5,5 +5,5 @@
 
 
 <p align="center">
-<img src="https://i.postimg.cc/2SwyFrx2/brown_24.png"width="400"/>
+<img src="https://i.postimg.cc/CMD2Q1fM/brown_21.png"width="400"/>
 </p>
